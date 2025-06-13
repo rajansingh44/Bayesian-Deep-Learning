@@ -34,7 +34,8 @@ The goal is to show how **uncertainty in weights** propagates to the **output pr
 ### Step-by-Step Overview
 
 1. **Define a Prior**  
-   - A Gaussian distribution \( \mathcal{N}(0, 1) \) is used as a prior over weights.
+   - A Gaussian distribution N(0, 1) is used as the prior over weights.
+.
 
 2. **Sample Weights**  
    - 1000 samples are drawn to represent different possible weight values.
